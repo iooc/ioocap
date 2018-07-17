@@ -1,0 +1,5 @@
+[32m[Nest] 11460   - [39m2018-7-16 23:42:35   [33m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 11460   - [39m2018-7-16 23:42:35   [33m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[33m +24ms[39m
+[32m[Nest] 11460   - [39m2018-7-16 23:42:35   [33m[RoutesResolver] [39m[32mAppController {/}:[39m[33m +14ms[39m
+[32m[Nest] 11460   - [39m2018-7-16 23:42:35   [33m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[33m +7ms[39m
+[32m[Nest] 11460   - [39m2018-7-16 23:42:35   [33m[NestApplication] [39m[32mNest application successfully started[39m[33m +5ms[39m

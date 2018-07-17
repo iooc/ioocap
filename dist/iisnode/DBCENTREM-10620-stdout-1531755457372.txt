@@ -1,0 +1,15 @@
+[32m[Nest] 10620   - [39m2018-7-16 23:37:39   [33m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:37:39   [33m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[33m +27ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:37:39   [33m[RoutesResolver] [39m[32mAppController {/}:[39m[33m +14ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:37:39   [33m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[33m +8ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:37:39   [33m[NestApplication] [39m[32mNest application successfully started[39m[33m +6ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:39:02   [33m[NestFactory] [39m[32mStarting Nest application...[39m[33m +83460ms[39m
+[HMR] Updated modules:
+[HMR]  - ./src/app.controller.ts
+[HMR]  - ./src/app.module.ts
+[HMR]  - ./src/main.hmr.ts
+[HMR] Update applied.
+[32m[Nest] 10620   - [39m2018-7-16 23:39:02   [33m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[33m +14ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:39:02   [33m[RoutesResolver] [39m[32mAppController {/}:[39m[33m +5ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:39:02   [33m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[33m +5ms[39m
+[32m[Nest] 10620   - [39m2018-7-16 23:39:02   [33m[NestApplication] [39m[32mNest application successfully started[39m[33m +5ms[39m
