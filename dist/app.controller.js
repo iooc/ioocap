@@ -16,14 +16,15 @@ let AppController = class AppController {
         this.appService = appService;
     }
     root() {
-        return this.appService.root();
+        return { message: this.appService.root() };
     }
 };
 __decorate([
     common_1.Get(),
+    common_1.Render('index'),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
-    __metadata("design:returntype", String)
+    __metadata("design:returntype", void 0)
 ], AppController.prototype, "root", null);
 AppController = __decorate([
     common_1.Controller(),
